@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="55D7445A-E233-45E7-987C-44B826C4418A">
+  <lastEdited clientType="local-build-20220514" date="2022-05-14 14:12:12 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Mac mini - Late 2014 - SSD einbauen&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Samstag, 14. Mai 2022&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;In meinem gebraucht erworbenen Mac mini war eine HGST (Western Digital) Festplatte mit einem Terabyte verbaut. Da diese in Verbindung mit macOS Monterey viel zu langsam war, wurde sie gegen eine Samsung SSD mit 500 GB Speicherkapazit&#xE4;t ausgetauscht.&#xD;&#xD;Hierzu kann ich die &lt;/b&gt;&lt;b&gt;&lt;a href="https://de.ifixit.com/Anleitung/Mac+mini+Ende+2014+Festplatte+ersetzen/32815"&gt;Anleitung von iFixit&lt;/a&gt;&lt;/b&gt;&lt;b&gt; empfehlen, allerdings habe ich beim zusammenbauen Schritt 26 ausgelassen, da einige berichtet haben, dass sich die Metallklammer l&#xF6;st und somit einen Kurzschluss erzeugen kann.&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="14_Mac_mini_-_Late_2014_-_SSD_einbauen_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

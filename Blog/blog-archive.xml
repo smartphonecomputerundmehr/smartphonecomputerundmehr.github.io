@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/user/Desktop/Neuer%20Ordner/SmartphoneComputerundmehr/Blog</link>
+    <description>Hier findet ihr Neuigkeiten und Blogeintr&#xE4;ge</description>
+    <item>
+      <title>Mac mini - Late 2014 - SSD einbauen</title>
+      <link>file://localhost/Users/user/Desktop/Neuer%20Ordner/SmartphoneComputerundmehr/Blog/Eintrage/2022/5/14_Mac_mini_-_Late_2014_-_SSD_einbauen.html</link>
+      <guid isPermaLink="false">c3352b63-9d59-41bf-b1f7-be7ae99f2465</guid>
+      <pubDate>Sat, 14 May 2022 16:01:02 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/user/Desktop/Neuer%20Ordner/SmartphoneComputerundmehr/Blog/Eintrage/2022/5/14_Mac_mini_-_Late_2014_-_SSD_einbauen.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d. MMMM y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/user/Desktop/Neuer%20Ordner/SmartphoneComputerundmehr/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
