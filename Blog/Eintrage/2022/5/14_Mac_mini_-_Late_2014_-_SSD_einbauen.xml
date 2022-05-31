@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <content collectionGUID="55D7445A-E233-45E7-987C-44B826C4418A">
-  <lastEdited clientType="local-build-20220514" date="2022-05-14 14:12:12 +0000"/>
+  <lastEdited clientType="local-build-20220531" date="2022-05-31 13:39:49 +0000"/>
   <textBox id="generic-title-attributes" dynamic="no" visible="yes">
     <richText>&lt;b&gt;Mac mini - Late 2014 - SSD einbauen&lt;/b&gt;</richText>
   </textBox>
