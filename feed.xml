@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:890CE54E-8C27-4155-ABF7-35E6814A9250</id>
+ <title>Page list Atom feed</title>
+ <updated>2022-05-31T15:39:48+02:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:756F549E-C063-4FF8-8039-EA85BF1AF0F4</id>
+  <title>Startseite</title>
+  <title xmlns="urn:iweb:">Startseite</title>
+  <in-navbar xmlns="urn:iweb:">756F549E-C063-4FF8-8039-EA85BF1AF0F4</in-navbar>
+  <link rel="alternate" href="Startseite.html"/>
+  <updated>2022-05-31T15:39:48.001+02:00</updated>
+  <content>Startseite</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:76A9044F-14E8-4B22-8EDA-B634CD38DC65</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">76A9044F-14E8-4B22-8EDA-B634CD38DC65</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2005-09-21T03:08:38+02:00</updated>
+  <content>Blog</content>
+ </entry>
+</feed>

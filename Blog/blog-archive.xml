@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/user/Desktop/neu/SmartphoneComputerundmehr/Blog</link>
+    <description>Hier findet ihr Neuigkeiten und Blogeintr&#xE4;ge</description>
+    <item>
+      <title>Neues Video</title>
+      <link>file://localhost/Users/user/Desktop/neu/SmartphoneComputerundmehr/Blog/Eintrage/2022/5/31_Neues_Video.html</link>
+      <guid isPermaLink="false">8c631e46-abcd-48ca-9ae6-23a3f99a4a66</guid>
+      <pubDate>Tue, 31 May 2022 15:30:57 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/user/Desktop/neu/SmartphoneComputerundmehr/Blog/Eintrage/2022/5/31_Neues_Video.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Mac mini - Late 2014 - SSD einbauen</title>
+      <link>file://localhost/Users/user/Desktop/neu/SmartphoneComputerundmehr/Blog/Eintrage/2022/5/14_Mac_mini_-_Late_2014_-_SSD_einbauen.html</link>
+      <guid isPermaLink="false">c3352b63-9d59-41bf-b1f7-be7ae99f2465</guid>
+      <pubDate>Sat, 14 May 2022 16:01:02 +0200</pubDate>
+      <iweb:comment enabled="0" count="0" link="file://localhost/Users/user/Desktop/neu/SmartphoneComputerundmehr/Blog/Eintrage/2022/5/14_Mac_mini_-_Late_2014_-_SSD_einbauen.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d. MMMM y</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/user/Desktop/neu/SmartphoneComputerundmehr/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
